@@ -25,7 +25,9 @@
 安装方式
 ---
 请复制以下指令到ssh连接软件粘贴执行
-`yum -y install wget;wget https://raw.githubusercontent.com/haoduck/kangle/master/start;sh start`
+```
+yum -y install wget;wget https://raw.githubusercontent.com/haoduck/kangle/master/start;sh start
+```
 
 
 ===============================
